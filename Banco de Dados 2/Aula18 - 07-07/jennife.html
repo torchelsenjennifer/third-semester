@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bomber Man</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/3.60.0/phaser.min.js"></script>
+    <script>
+      var game = new Phaser.Game(800, 600, Phaser.AUTO);
+
+      var scene = new Phaser.Scene();
+      game.add.scene(scene);
+
+      function create() {
+        // Create the game world
+        this.world = new Phaser.World(
+          game.config.width,
+          game.config.height,
+          false
+        );
+
+        // Create the player character
+        this.player = new Phaser.Sprite(this.world, 100, 100, "player");
+
+        // Add the player character to the game world
+        this.world.add(this.player);
+      }
+
+      function update() {
+        // Update the game world
+        this.world.update();
+
+        // Move the player character
+        this.player.x += this.player.vx;
+        this.player.y += this.player.vy;
+      }
+      function render() {
+        // Render the game world to the canvas
+        this.world.render(this.game.renderer);
+      }
+	  game.start();
+    </script>
+  </head>
+  <body>
+    <canvas width="800" height="600"></canvas>
+  </body>
+</html>

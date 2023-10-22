@@ -1,0 +1,6 @@
+Gateway => Conecta Redes
+Pode ser qualque endereço de 0 a 254
+Boa práticas: Usar o primeiro e ultimo IP
+
+Provedor 201.15.0.10 Mascara 255.255.250.0 
+=> 

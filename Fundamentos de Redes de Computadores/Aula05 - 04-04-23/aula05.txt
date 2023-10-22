@@ -1,0 +1,18 @@
+05-04 
+========================================
+Introdução - O que é Enthernet
+
+	-Enlaces => Laço de comunicação como o provedor
+
+Comunicação
+
+	- Sintaxe - forma de descrever para compreender
+	- Semâtica - significado a cada conjunto
+	- timing - velocidade aceitavel
+
+PC-DESKTOP - ROTEADOR - MODEM - ISP - INTERNET
+SMARTPHONE - AP WIRELESS(2) - ROTEADOR(2) - MODM - ISP - INTERNET
+NODEBOOK WIFI - APP WIRELESS(2) - ROTEADOR(2) - MODEM - ISP - INTERNET
+NOTEBOOK CABO - ROTEADOR - MODEM - ISP - INTERNET
+
+tracert

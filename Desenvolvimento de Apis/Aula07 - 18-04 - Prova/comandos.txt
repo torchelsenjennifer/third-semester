@@ -1,0 +1,11 @@
+COMANDOS PARA CRIAR API COM EXPRESS
+======================================================================================================
+npm init -y                            ===> baixar package.json
+npm i express sequelize sqlite3 cors   ===> instala nodemodules, express, sequelize, sqlite e cors
+criar pasta databases
+criar pasta models
+criar controllers
+criar arquivo app.js 
+Ajustar package.json "type": "module",
+npm i --save-dev nodemon
+

@@ -1,0 +1,74 @@
+QUADRO IP
+========================================================
+256 128 64 32 16 8 4 2 1
+
+IP 192.168.56.10 => 11000000 10101000 00111000 00001010
+
+10 => 00001010
+56 => 00111000
+168 => 10101000
+192 => 11000000
+
+IP 10.10.15.7 => 00001010 00001010 00001111 00000111
+
+7 => 00000111
+15 => 00001111
+10 => 00001010
+10 => 00001010
+
+IP 127.15.63.3 => 11111111 00001111 00111111 00000011
+3 => 00000011
+63 => 00111111
+15 => 00001111
+127 => 11111111
+========================================================
+MASCARA IP 
+
+255.255.255.0 => mascara C => Primeiro octeto precisao ter 192, o segundo octeto para ser endereço privado deve ter 168, 
+
+ex 192.168.10.4
+
+nao respeita a mascara, nao pertece => 192.168.12.250 (12 nao pode, tem que ser 255)
+
+255.0.0.0 => classe A => primeiro 0 significa que a mascara esta desligada, são 256 possibilidades, se comecar com 10, é privado. Numero inicial é a rede.
+
+MASCARA DE REDE
+
+MASCARA DE REDE => 255.255.255.0
+ 255.255.255.0 => CLASSE C, por que ha 3 octeto rede e 0 para host, só o ultimo muda. Vai de 0 a 255, 192.168.31.0 ate 192.168.31.255 = 256 possibilidades, diminui dois, pois são usados, entao são validos 254 validos. Primeiro endereço valido 192.168.31.1 e o ultimo 192.168.31.254
+
+D => 192.168.31.15 
+B => 11000000 10101000. 0001111 0000111
+
+
+MASCARA DE REDE
+
+255.255.0.0 => 
+classe B => Dois primeiros octetos ligados
+INTERVALO => 172.16.0.0 até 172.31.255.255 => PRIVADO = 16 ATE 31
+IP: 172.31.0.0
+1ºendereço => 172.31.0.1
+Ultimo Endereço => 172.31.255.254
+ID => 172.31.0.0
+BRAUDCAST => 172.31.255.255
+
+SUB-REDE
+255.255.255.224
+11111111 11111111 11111111 11100000
+11100000 => 2^3 = 8 
+	   => 2^5 = 32
+
+PULA DE 32 EM 32 
+
+EXERCICIO
+
+255.255.252.0
+
+BIT => 256 128 64 32 16 8 4 2 1
+     255 => 11111111 
+     255 => 111111111 
+     252 => 11111100 => OCTETO MISTO
+      0 => 0000000
+
+11111100 => 2^6 = 64
+2^2 X 2^8 = 1024

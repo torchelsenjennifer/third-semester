@@ -1,0 +1,363 @@
+As 10 Linguagens de Programação Mais Usadas em 2023: Aprimore suas Habilidades em Desenvolvimento Web 
+Se tratando de desenvolvimento web e desenvolvimento de softwares, as linguagens de programação mais usadas no mercado hoje em dia são Python, Java, JavaScript e C++. 
+
+Aprender uma linguagem de programação pode trazer muitos benefícios, seja para iniciar uma carreira no ramo de tecnologia ou para melhorar suas habilidades em programação de sites e aplicações. Este aprendizado te ajuda a aperfeiçoar suas competências técnicas e de resolução de problemas, além de ajudar na busca por um emprego bem remunerado. 
+
+Com mais de 700 opções de linguagens de programação para escolher, pode ser um desafio decidir qual delas aprender primeiro. Em última instância, esta escolha depende muito do que você está tentando construir através da programação. E para te ajudar a entender melhor suas opções, este artigo vai resumir as principais características das dez melhores linguagens de programação para aprender em 2023. 
+
+Vamos lá!
+
+Baixar modelo de currículo atrativo de desenvolvedor web
+
+Quais São as Linguagens de Programação Mais Usadas em 2023?
+1. Python
+Página inicial do site da linguagem Python
+Python é uma linguagem de programação de alto nível e para propósitos diversos. Ela pode ser utilizada para múltiplas tarefas, desde a análise e visualização de dados até o desenvolvimento, prototipação e automação web.
+
+A linguagem Python é muito popular entre desenvolvedores de software, pois funciona muito bem como uma linguagem de scripts. Adicionalmente, ela permite que seus usuários utilizem diferentes paradigmas de programação, incluindo linguagens de programação funcionais, processuais, imperativas e orientadas a objetos.
+
+Outra característica importante da linguagem Python é que ela é de código aberto, isto é, ela permite que os programadores modifiquem seu código-fonte para que se ajuste às suas necessidades.
+
+Além de tudo isso, é mais simples aprender Python do que as outras linguagens de programação, graças à sua sintaxe, que é familiar à língua inglesa. Se você deseja começar sua carreira como um desenvolvedor de programas, aprender a programar em Python é um ótimo ponto de partida.
+
+Para ajudar ainda mais, a demanda por desenvolvedores Python é crescente no mercado. É possível escolher entre várias linhas de trabalho, seja como cientista de dados, engenheiro de softwares e pesquisador de inteligência artificial (IA). 
+
+Indicado para	Iniciantes.
+Dificuldade	Fácil de aprender, ler e escrever.
+Requisitos de Competências 	Conhecimento básico em front-end pode facilitar o processo de aprendizado.
+Usos	Desenvolvimento web back-end.
+Aplicações desktop.
+Ciência de dados.
+Automação.
+Aplicações de deep learning. 
+Machine learning e computação científica.
+Renda Média de um Desenvolvedor Python no Brasil	R$ 5.469,00/mês
+Popularidade	Amada por 66.7% dos desenvolvedores no Stack Overflow.
+Primeiro lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+Primeiro lugar em linguagem de programação mais popular de acordo com o TIOBE – Janeiro 2022.
+Primeiro lugar em linguagem de programação que os profissionais ativos do mercado mais querem aprender.
+Sexto lugar em linguagem de programação que os estudantes de desenvolvimento mais querem aprender.
+Prós	Código aberto.
+Altamente escalável.
+Extensivas opções de frameworks para GUI (interface gráfica de usuário).
+Compatível com Mac e Windows.
+Suporte de uma comunidade em constante crescimento.
+Contras	Mais lenta devido ao fato de ser uma linguagem interpretada.
+Consome relativamente bastante memória.
+Não é ideal para desenvolvimento de aplicações móveis.
+2. C#
+Página de documentação da Microsoft referente à linguagem de programação C#
+C# é uma linguagem de programação orientada a objetos – um modelo que organiza o design de software ao redor de objetos.
+
+A linguagem de programação C# é uma das principais no mercado devido ao seu rápido desempenho e estabilidade melhorada. Essa linguagem de programação também é mais fácil de ser aprendida do que as suas antecessoras, como C e C++, pois possui uma sintaxe mais simples e uma hierarquia de classe bem definida. 
+
+Tendo começado como uma linguagem Microsoft para seu framework .NET, hoje em dia a linguagem de programação C# é compatível com Windows e Linux. Sendo assim, é a melhor linguagem de programação para aprender a desenvolver aplicações desktop baseadas em GUI (graphical user interface). 
+
+Programadores também podem utilizar a linguagem C# em vários ambientes, incluindo softwares móveis e corporativos. Em outras palavras, desenvolvedores que utilizam C# podem criar aplicativos para Android e iOS, além de desenvolver jogos em 2D e 3D no Unity.
+
+Profissionais com conhecimento em linguagem C# estão em alta demanda, já que muitas empresas de software estão buscando por programadores com essa especialidade. Alguns dos melhores empregos para desenvolvedores em C# incluem ser desenvolvedor de aplicativos móveis e engenheiro de software.
+
+Indicado para	Iniciantes e intermediários. 
+Dificuldade	Moderada.
+Requisitos de Competências	Conhecimentos básicos em C e em linguagens de programação orientadas a objetos podem facilitar o processo de aprendizagem. 
+Usos	Aplicações web.
+Aplicações móveis.
+Desenvolvimento de jogos e desenvolvimento de softwares de realidade virtual. 
+Aplicações Linux e Mac.
+Renda Média de um Desenvolvedor C# .NET no Brasil	R$ 4.624,00/mês
+Popularidade	Amada por 59.7% dos desenvolvedores no Stack Overflow.
+5º lugar em linguagem de programação mais popular de acordo com o PYPAL – janeiro de 2022.
+5º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+4º lugar em linguagem de programação que os estudantes de desenvolvimento mais querem aprender.
+Prós	Tempos de compilação e execução rápidos.
+Perfeita para todos os tipos de desenvolvimento Windows.
+Mais segura do que C e C++, já que não utiliza ponteiros (pointers).
+Ampla comunidade de desenvolvimento do framework .NET 
+Grande variedade de frameworks.
+Contras	Curva de aprendizado inicial mais difícil do que outras linguagens de programação.
+Não se traduz bem entre plataformas, pois é dependente do ambiente .NET. 
+3. C++
+Página de documentação da Microsoft referente à linguagem de programação C++
+A linguagem de programação C++ é uma versão melhorada da C, e uma das mais populares linguagens na área de ciências da computação. Além disso, sua versatilidade faz com que a C++ seja uma das linguagens de programação mais indicadas para se aprender.
+
+Sua natureza rápida e potente permite que desenvolvedores criem aplicações com excelente desempenho, como videogames, softwares gráficos e navegadores web.
+
+A linguagem de programação C++ combina características de linguagens de baixo e alto níveis, fazendo com que ela seja ideal para programação de sistemas, ainda permitindo abstrações para projetos menores. Adicionalmente, a C++ é uma linguagem de programação multiparadigma, suportando programação imperativa, genérica e OOP.
+
+Vale notar que aprender C++ pode ser desafiador para iniciantes, pois ela possui uma sintaxe mais complexa do que outras linguagens de programação. 
+
+Em termos de oportunidades de trabalho, ter proficiência em C++ é necessário para muitos profissionais de TI, como desenvolvedores de software e arquitetos de programação. 
+
+Atualmente, a demanda por desenvolvedores em C++ está em crescimento, já que se trata de uma das linguagens de programação mais difíceis de se aprender. Lembre-se de destacar suas habilidades e competências em linguagens de programação no seu currículo para atrair as melhores ofertas de emprego. 
+
+Indicado para	Programadores experientes.
+Dificuldade	Difícil.
+Requisitos de Competências	Conhecimentos em funções computacionais, resolução de problemas de desenvolvimento e habilidades básicas em programação.
+Usos	Programas de computador.
+Sistemas operacionais.
+Desenvolvimento de aplicativos móveis.
+Desenvolvimento de videogames.
+Desenvolvimento de aplicações server-side e client-side.
+Machine learning.
+Renda Média de um Desenvolvedor C++ no Brasil	R$ 7.156,00/mês
+Popularidade	Amada por 43.4% dos desenvolvedores no Stack Overflow.
+4º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+4º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+Prós	Código aberto.
+Altamente versátil.
+Rápida e potente.
+Permite maior controle.
+Funciona bem entre diferentes dispositivos e plataformas.
+As competências adquiridas são facilmente transferíveis para outras linguagens.
+Contras	Pode ser complicada para iniciantes.
+Usos inadequados dos ponteiros (pointers) podem levar a grandes erros.
+Sua estrutura orientada a objetos é menos eficiente do que outras linguagens de programação baseadas em OOP.
+Ausência de um sistema de garbage collection para gerenciamento de memória.
+4. JavaScript
+Página inicial do site da linguagem JavaScript
+JavaScript, juntamente com HTML e CSS, é a melhor linguagem de programação para aprender desenvolvimento web front-end. 97,8% de todos os sites no mundo utilizam JavaScript para seu desenvolvimento client-side (a interface que é visível para os visitantes).
+
+Isso faz com que essa seja a linguagem de programação mais popular para esses casos. 
+
+O JavaScript geralmente é utilizado para melhorar a interatividade de páginas na internet. Essa linguagem de programação permite que os desenvolvedores web adicionem elementos dinâmicos nas landing pages, como gráficos animados, botões clicáveis e efeitos que aparecem quando passamos o mouse sobre alguma sessão específica do site.
+
+A linguagem JavaScript não é útil apenas para criar sites, mas também é excelente para desenvolvimento de aplicações web, já que oferece um design muito intuitivo.
+
+De modo geral, a JavaScript é uma linguagem de programação relativamente fácil de aprender, tornando esta a escolha perfeita para quem está planejando se tornar um desenvolvedor web. Desenvolvedores JavaScript também podem se inserir no mercado de trabalho como designers UI/UX, desenvolvedores full-stack e engenheiros de software.
+
+Indicado para	Iniciantes.
+Dificuldade	Relativamente fácil.
+Requisitos de Competências	Habilidades básicas em programação e familiaridade com HMTL e CSS.
+Usos	Desenvolvimento web front-end.
+Desenvolvimento de jogos.
+Aplicações web.
+Renda Média de um Desenvolvedor JavaScript no Brasil	R$ 4.814,00/mês
+Popularidade	Amada por 58.3% dos desenvolvedores no Stack Overflow.
+3º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+7º lugar em linguagem de porgramação mais popular de acordo com o TIOBE – janeiro de 2022.
+4ª lugar em linguagem de programação que os profissionais ativos do mercado mais querem aprender.
+2º lugar em linguagem de programação que os estudantes de desenvolvimento mais querem aprender. 
+Prós	Código aberto.
+JavaScript client-side é incrivelmente rápida e não exige compilação.
+Funciona muito bem com outras linguagens de programação populares.
+Ótima para elevar a experiência do usuário e engajamento no site. 
+Contras	Problemas de segurança.
+Desempenho instável entre diferentes navegadores.
+5. PHP
+Página inicial do site da linguagem PHP
+PHP é uma das primeiras linguagens de programação back-end que os desenvolvedores consideram ser essencial aprender. Além disso, o PHP é utilizado por 78,1% de todos os sites na internet, já que é a linguagem primária do WordPress.
+
+Comparada a outras linguagens de programação, o PHP é fácil de aprender. Além de ter um extenso conjunto de recursos disponíveis para inciantes, a sintaxe PHP é elementar.
+
+Adicionalmente, esta linguagem de programação oferece excelentes frameworks PHP para o desenvolvimento de sites e aplicações. Alguns dos melhores e mais conhecidos são Laravel, Symfony e CodeIgniter.
+
+Em termos de oportunidades de trabalho, a linguagem de código aberto PHP segue em grande demanda, mesmo sendo uma das mais antigas do mercado. Programadores PHP podem utilizar esta linguagem para escrever scripts via linhas de comando, bem como scripts server-side (na interface do servidor), além de desenvolver aplicações desktop.
+
+Indicado para	Iniciantes.
+Dificuldade	Bastante fácil de aprender.
+Requisitos de Competências	Conhecimentos básicos em programação, especialmente CSS e HTMl, podem ajudar no processo de aprendizado.
+Usos	Desenvolvimento web.
+Aplicações desktop.
+Programas de computador.
+Renda Média de um Desenvolvedor PHP no Brasil	R$ 5.082,00/mês
+Popularidade	Amada por 37.3% dos desenvolvedores no Stack Overflow.
+6º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+11º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+Prós	Código aberto.
+As versões PHP 7 e posteriores são bastante rápidas.
+Bem estabelecida para desenvolvimento web.
+Suporta OOP e programação funcional.
+Excelente suporte da comunidade – grande comunidade de desenvolvedores e muitos materiais de apoio.
+Contras	Questões de segurança.
+Criar um site utilizando PHP é uma tarefa mais lenta do que utilizar outras linguagens de programação.
+Menos ferramentas de debugging (resolução de problemas).
+
+6. Swift
+Página inicial do site da linguagem Swift
+A linguagem de programação Swift está entre uma das mais recentes a surgir no mercado. Inicialmente, quando foi lançada, a Swift era uma alternativa à Objective-C – a principal linguagem para produtos Apple.
+
+Os desenvolvedores foram passando a utilizar a linguagem Swift porque ela oferece recursos mais modernos, como programação simultânea ou concorrente, e gerenciamento automático de memória. Também é muito mais rápido e simples de escrever em Swift do que em Objective-C. 
+
+Como resultado, a linguagem de programação Swift é certamente a melhor opção para desenvolvimento de produtos Apple e uma das alternativas de programação que mais rapidamente cresce no mercado.
+
+Se você está interessado em desenvolver produtos e programas para dispositivos Apple, considere escolher a linguagem de programação Swift para aprender primeiro.
+
+Além disso, a especialidade em desenvolvimento de apps iOS está em alta demanda no mercado de trabalho, já que a Apple segue sendo a maior geradora de lucros e rendimentos no ramo de indústria de smartphones.
+
+Indicado para	Iniciantes.
+Dificuldade	Fácil de ler e aprender.
+Requisitos de Competências	Nenhum.
+Usos	Desenvolvimento de software, especialmente para apps macOS e iOS.
+Renda Média de um Desenvolvedor iOS no Brasil	R$ 6.021,00/mês
+Popularidade	Amada por 59.5% dos desenvolvedores no Stack Overflow.
+9º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+10º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+7º lugar em linguagem de programação que os estudantes de desenvolvimento mais querem aprender.
+Prós	Código aberto.
+2.6x mais rápida do que Objective-C.
+Legibilidade melhorada – devido ao seu código mais claro.
+Interoperacional com Objective-C. 
+Menos memory footprint.
+Contras	Geralmente considerada uma linguagem de programação jovem, apesar da rapidez de seu desenvolvimento.
+Falta de suporte para versões antigas do iOS.
+7. Java
+Página inicial do site da linguagem Java
+Java é uma linguagem de programação exclusiva que pertence à Oracle. Trata-se de uma linguagem de programação de alto nível e para propósitos diversos, permitindo que os desenvolvedores criem todo e qualquer tipo de aplicação com facilidade.
+
+Amplamente conhecida como uma linguagem do tipo “escreva uma vez, rode em qualquer lugar”, os códigos Java podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos.
+
+A linguagem Java é relativamente simples. Isso se deve à sua sintaxe, que possui familiaridade com tarefas do mundo real e com estruturas orientadas a objetos. Além disso, os novos frameworks Java, como Spring e Hibernate, tornam a linguagem ainda mais conveniente para que os desenvolvedores construam aplicações de diversas naturezas.
+
+Desde a engenharia de softwares até o desenvolvimento web back-end, passando pela ciência de dados e pelo big data, é possível fazer tudo usando Java. Adicionalmente, esta linguagem de programação é comumente utilizada em serviços financeiros devido à sua segurança robusta. 
+
+Programadores Java também têm facilidade em aprender novas linguagens de programação devido às suas habilidades, que são transferíveis. Por esse motivo, Java pode ser considerada a linguagem perfeita para ser a primeira aprendizagem de um entusiasta da programação. 
+
+Quanto à demanda por profissionais desenvolvedores de Java, ela segue em alta. É possível atuar em diversos ramos e áreas, como engenharia de software, análise e monitoramento de qualidade, gerenciamento de projetos e design UX.
+
+Indicado para	Iniciantes.
+Dificuldade	Consideravelmente fácil de aprender.
+Requisitos de Competências	Conhecimentos básicos em programação.
+Usos	Desenvolvimento móvel.
+Desenvolvimento de apps.
+Aplicações desktop.
+Aplicações web.
+Desenvolvimento de jogos.
+Machine learning e computação científica.
+Renda Média de um Desenvolvedor Java no Brasil	R$ 6.000,00/mês
+Popularidade	Amada por 44.1% dos desenvolvedores no Stack Overflow.
+2º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+3º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+2º lugar em linguagem de programação mais popular entre os profissionais ativos do mercado.
+Prós	Altamente versátil.
+Simples de aprender, escrever, compilar e debugar.
+Novos frameworks aceleram o desenvolvimento de programas Java.
+Várias APIs disponíveis para o desenvolvimento de aplicações.
+Suporta multi-threading.
+Segurança aprimorada.
+Compatível entre diferentes plataformas.
+Contras	Tempo de execução lento.
+Consome relativamente bastante memória.
+8. Go
+Página inicial do site da linguagem Go
+A linguagem de programação Go, ou Golang, foi criada visando o desenvolvimento de APIs, aplicações desktop baseadas em GUI, e aplicações web. Por mais que seja uma linguagem jovem, que recentemente entrou no mercado, a Go é uma das linguagens que mais rapidamente cresce no mundo da programação. 
+
+A programação simultânea ou concorrente (concurrent programming) é uma de suas principais características. Este recurso permite que os programadores trabalhem com CPUs de múltiplos núcleos e com uma base de códigos massiva.
+
+Combinando essa funcionalidade com o excelente desempenho da Golang, ela se torna a linguagem de programação perfeita para criar algoritmos, servidores web e funis de dados (data pipelines).
+
+A melhor notícia é que a linguagem de programação Go é relativamente mais simples que outras linguagens de programação. Com o módulo leve chamado Goroutines e suas threads, os programadores só precisam adicionar a sintaxe Golang para fazer uma função rodar como um subprocesso.
+
+Além disso tudo, a linguagem Go tem se tornado uma das mais populares na busca por aprendizados em programação. Apesar de sua sintaxe ser baseada em C, a linguagem Golang é mais fácil de ser compreendida devido à sua simplicidade.
+
+Algumas das melhores vagas para desenvolvedores Go incluem aquelas de engenharia de software, ciência de dados, desenvolvimento web back-end e pesquisas em IA. Adicionalmente, programadores Go são bem pagos e nunca estiveram em tão alta demanda. 
+
+Indicado para	Iniciantes e intermediários.
+Dificuldade	Fácil de aprender devido ao seu código simples.
+Requisitos de Competências	Pode ser mais fácil aprender se você já possui habilidades sólidas em programação C e Java.
+Usos	Desenvolvimento web back-end.
+Aplicações web.
+Machine learning.
+Programação de sistemas.
+Big data.
+Renda Média de um Desenvolvedor Go no Brasil	R$ 4.995,00/mês
+Popularidade	Amada por 62.3% dos desenvolvedores no Stack Overflow.
+13º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+13º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+1º lugar em linguagem de programação que os estudantes de desenvolvimento e profissionais ativos do mercado mais querem aprender.
+Prós	Código aberto.
+Tempo de execução rápido.
+Modelo de simultaneidade/concorrência simples.
+Segurança aperfeiçoada.
+Excelente suporte para testes e ótimas ferramentas de análise estática.
+Contras	Suporte de bibliotecas limitado.
+Ausência de funções genéricas.
+Não é ideal para desenvolvimento de programas complexos.
+9. SQL
+Página de produtos no site MySQL - da linguagem de programação SQL 
+A Structured Query Language (SQL) é a melhor linguagem de programação para aprender caso você esteja interessado em ciências de dados e computação estatística.
+
+Trata-se de uma linguagem de domínio específico. Ela permite que os programadores manipulem, organizem em queries, e analisem dados armazenados em bancos de dados relacionais. 
+
+O SQL é a terceira linguagem mais usada no mundo da programação, de acordo com as estatísticas do Stack Overflow. Em termos de oportunidades no mercado de trabalho, empresas de todas as indústrias precisam de desenvolvedores SQL, já que eles desempenham um papel vital no gerenciamento de bancos de dados.
+
+Desenvolvedores web utilizam o SQL para organizar os bancos de dados dos sites, e especialistas em marketing usam a linguagem SQL para avaliar o desempenho de suas campanhas.
+
+Além do mais, múltiplos sistemas de gerenciamento de banco de dados utilizam a linguagem SQL, incluindo os populares MySQL e MariaDB.
+
+Sendo assim, compreendemos porque os desenvolvedores SQL estão em alta demanda. Felizmente, aprender SQL é bastante fácil, pois sua sintaxe utiliza palavras comuns da língua inglesa. 
+
+Indicado Para	Iniciantes.
+Dificuldade	Fácil de aprender, mas pode ser difícil quando se está desenvolvendo funções avançadas.
+Requisitos de Competências	Nenhum.
+Usos	Ciência de dados.
+Gerenciamento de banco de dados.
+Ferramentas de inteligência de negócios (business intelligence).
+Relatórios de vendas.
+Renda Média de um Desenvolvedor SQL no Brasil	R$ 5.763,00/mês
+Popularidade	Amada por 56.6% dos desenvolvedores no Stack Overflow.
+9ª lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022.
+1º lugar em linguagem de programação mais popular entre profissionais ativos do mercado.
+Prós	Rápido processamento de queries.
+Excelente portabilidade.
+Segurança robusta.
+Altamente interativa.
+Grande comunidade de usuários.
+Contras	Não é de código aberto.
+Não é a linguagem de programação ideal para construir aplicações, e sim para lidar com dados.
+10. Ruby
+Página inicial do site da linguagem Ruby
+A Ruby é outra popular linguagem de programação de código aberto. Ela é comumente utilizada no desenvolvimento de aplicações web, mas os programadores também podem utilizar a Ruby para análise de dados e prototipação. 
+
+Aprender esta linguagem de programação interpretada e de propósitos diversos exige menos esforços, pois a Ruby utiliza uma sintaxe familiar ao idioma inglês.
+
+Adicionalmente, o framework Ruby on Rails (RoR) traz diversos benefícios, incluindo uma segurança aprimorada, baixa manutenção e ótima adequação para o desenvolvimento full-stack.
+
+Dica
+Se você estiver usando o VPS da Hostinger, você pode escolher um modelo de sistema operacional com estrutura Ruby on Rails já pré-instalada.
+
+Enquanto muitos podem pensar que a linguagem de programação Ruby está morrendo, ela se tornou uma das opções mais estáveis para o desenvolvimento de sites. Sendo assim, se você deseja escalonar o seu site e aprimorar as suas habilidades em desenvolvimento de aplicativos web, aprender a linguagem Ruby é o caminho ideal. 
+
+Indicado para	Iniciantes.
+Dificuldade	Fácil de aprender.
+Requisitos de Competências	Nenhum.
+Usos	Desenvolvimento web tanto back-end quanto front-end.
+Renda Média de um Desenvolvedor Ruby no Brasil	R$ 5.560,00/mês
+Popularidade	Amada por 42.9% dos desenvolvedores no Stack Overflow.
+15º lugar em linguagem de programação mais popular de acordo com o PYPL – janeiro de 2022.
+18º lugar em linguagem de programação mais popular de acordo com o TIOBE – janeiro de 2022. 
+Prós	Código aberto.
+Rápida de escrever e fácil de debugar.
+Sistema de garbage collection eficiente.
+Grande comunidade de usuários.
+O framework Ruby on Rails é popular e perfeito para criação de sites.
+Contras	Lenta.
+Menos flexível.
+Problemas multi-threading.
+Aprimore seus conhecimentos em desenvolvimento web através do download desses documentos gratuitos:
+Guia de Referências HTML – Códigos Prontos para Usar
+Guia de Referências CCS – Códigos Prontos para Usar
+Manual WordPress: Dicas Para o CMS Mais Famoso do Mundo
+
+
+Conclusão
+Escolher a melhor linguagem de programação para aprender depende muito do que você está querendo desenvolver, já que cada projeto terá necessidades diferentes que a linguagem deverá atender.
+
+Abaixo estão listadas excelentes linguagens de programação para aperfeiçoar seus conhecimentos em desenvolvimento web:
+
+Programação client-side. JavaScript é a melhor linguagem de programação para o desenvolvimento front-end.
+Programação server-side. Python, PHP, Go, e Ruby ajudam os bancos de dados a se comunicarem com aplicações no back-end de um programa.
+Desenvolvimento de aplicações web. C#, JavaScript, Java, Go, e Ruby estão entre as melhores linguagens de programação para construção de web apps. 
+Gerenciamento de dados. Sem dúvidas, a melhor linguagem de programação para lidar com dados é SQL.
+Além disso, a lista a seguir indica quais são as linguagens de programação mais adequadas para:
+
+Desenvolvimento de jogos. C++, C#, JavaScript, e Java são linguagens de programação potentes e ideais para estes casos.
+Desenvolvimento de apps móveis. C++ e Java podem oferecer ótimo desempenho para os aplicativos móveis que você está construindo. Se está interessado em desenvolver apps e produtos para iOS, opte pela linguagem de programação Swift.
+Aplicações GUI. Python, C#, PHP, Java, e Go são excelentes opções para desenvolver aplicativos desktop.
+Processamento de dados. Python, SQL, e Ruby são ótimos para computação estatística.
+Em termos de versatilidade, a linguagem de programação C++ é considerada a mais versátil desta lista, apesar da linguagem Java também apresentar grande versatilidade.
+
+Em termos de popularidade, hoje em dia, a linguagem de programação Python é sem dúvidas a mais popular no desenvolvimento web, seguida por Java, JavaScript, C++ e C#. 
+
+Esperamos que este artigo tenha te ajudado a decidir qual linguagem de programação você deseja aprender primeiro, para assim poder construir sites e apps. Não se esqueça de utilizar uma hospedagem web confiável para desenvolver seus projetos. 
+
+Entre em contato conosco pelos comentários caso tenha alguma questão ou apontamento.

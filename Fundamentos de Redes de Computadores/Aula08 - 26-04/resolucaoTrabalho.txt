@@ -1,0 +1,1 @@
+- sempre apartir do host de maior valor

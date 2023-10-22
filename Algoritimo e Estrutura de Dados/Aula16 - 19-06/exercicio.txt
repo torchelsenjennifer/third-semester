@@ -1,0 +1,13 @@
+ExerciÂ­cio
+----------
+- Fazer um Web Scraping da pagina do Cineflix (Pelotas e Porto Alegre)
+- Obter ti­tulo do filme, idioma (dub, leg) e classificacao indicativa
+- Exibir um menu com as opcoes:
+
+   CineFlix - Filmes em Cartas
+   ================================
+   1. Filmes em Pelotas
+   2. Filmes em Porto Alegre
+   3. Todos os Filmes
+   4. Filmes Exclusivos de cada Cidade
+   5. Finalizar

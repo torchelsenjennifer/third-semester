@@ -1,0 +1,13 @@
+- Utilizar um dicionario para cadastrar apostas, com nome, clube e valor apostado. Menu:
+
+Programa: Quem sera o campeao Brasileiro
+------------------------------------------
+1. Incluir Aposta
+2. Listar em Ordem de Nome
+3. Listar em Ordem de Valor
+4. Pesquisar por Clube
+5. Resumir: clube e Nº Aposta
+6. Resumir: Clube e R$ Total Apostado
+7. Finalizar
+
+Ao final do programa, salvar os dados (utilizando dicionario) em arquivo CSV. E, no inicio, recuperar esses dados salvos.

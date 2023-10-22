@@ -1,0 +1,101 @@
+RESOLUÇÃO
+========================================================
+
+EXERCICIO UM
+
+T = S/P
+S = 500 MB
+P = 10 Mbps
+Transferir de BYTE em bits => 500 MB X 8 = 4000 Mbits
+T = 4000 Mbits/10 Mbits = 400 segundos
+T = 400/60 = 6,66 minutos
+
+
+========================================================
+
+EXERCICIO DOIS
+
+S = 2 GB
+DOWLOAD = 50 Mbits
+T = ?
+Transferir de BYTE em bits => 2 GB X 8 = 16 Gbits
+Transforma de G em M => 16 G X 1000 = 16000 Mbits
+T = S/DOWLOAD = 16000 Mbits/50 Mbits
+T = 32 segundos
+
+S = 2 GB
+UPLOAD = 25 Mbits
+T = S/U = 16000 Mbits/25 Mbits
+T = 640 segundos
+
+=========================================================
+
+EXERCICIO TRES
+
+T = S/BW
+S = 100 Mbits
+BW = 300 Mbits
+T = 100 Mbits/300 Mbits = 0,33 segundos
+
+Dowload = 5MB
+T = S/D => 
+
+===========================================================
+
+EXERCICIO QUATRO
+
+S = 1MB
+Transferir de BYTE em bits => 1MB X 8 = 8MB
+Transforma de M em K => 8 MB X1000 = 8000 Kbits
+BW = 100 Kbits
+T = ?
+T = S/BW = 8000 Kbits/100 Kbits = 80 segundos
+
+============================================================
+
+EXERCICIO CINCO
+
+S = 1539 MB
+Transferir de BYTE em bits => 1539M X 8 = 
+Transforma de M em G =>
+BW = 2,5 Gbits
+T =?
+
+
+==============================================================
+EXERCICIO SEIS
+
+S = 300 MB
+Transferir de BYTE em bits => 300M X 8 = 2400 Mbits
+BW = 5 Mbits
+T = ?
+T = 2400 Mbits/5 Mbits = 4800
+T = 4800/3600 = 1,33 minutos
+
+=============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+where agrupa antes de filtrar
+havinh agrupa depois de filtrar
+
+Ordem de execusao
+where
+group by

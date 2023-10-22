@@ -1,0 +1,31 @@
+COMANDOS PARA CRIAR API COM EXPRESS
+========================================
+npm init -y 
+npm i express sequelize mysql2 cors
+Ajustar package.json "type": "module",
+criar pasta databases/ conecta.js
+criar pasta models/ M####.js 
+criar arquivo app.js e chamar a models
+Criar databases - nome do banco - DBeaver 
+criar controllers
+
+
+
+======================================
+*mysql -u root*
+CREATE DATABASE Exemplo;
+2023-05-22 23:48:00 
+
+======================================
+Aula 14 06-06
+
+npm i bcrypt
+
+create database restaurantes;
+
+exercicio
+
+- pesquisar sobre Paranoid (soft delete)
+-implementar a exclusao logica na model de restaurantes
+-criar uma tabela de logs
+- usuar um hook para registrar no log a exclusao(logica) do restaurante

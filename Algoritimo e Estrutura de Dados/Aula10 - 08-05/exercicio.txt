@@ -1,0 +1,53 @@
+Dados Gerais
+====================================
+  NÂº de Passageiros: 891
+
+  NÂº de Sobreviventes: 342
+  NÂº de Mortos: 549
+
+  Homens: xx
+  Mulheres: xx
+
+  1Âª Classe: xx
+  2Âª Classe: xx  
+  3Âª Classe: xx
+
+Sobreviventes por Sexo
+===========================
+  Homens: xx
+    Sobreviventes: xx
+    Mortos: xx
+
+  Mulheres: xx
+    Sobreviventes: xx
+    Mortos: xx
+
+Sobreviventes por Classe
+===========================
+  1Âª Classe: xx
+    Sobreviventes: xx
+    Mortos: xx
+
+  2Âª Classe: xx
+    Sobreviventes: xx
+    Mortos: xx
+
+  3Âª Classe: xx
+    Sobreviventes: xx
+    Mortos: xx
+
+EstatÃ­stica por Idade:
+=============================
+  Menor Idade: xx - (nome e sobreviveu?)
+  Maior Idade: xx - (nome e sobreviveu?)
+  MÃ©dia das Idades: xx.x anos
+
+===================================================================
+
+A partir do arquivo "football_players.csv" apresente os seguintes dados
+
+1. Listar nÂº, nome, clube de origem, clube de destino e valor 
+2. Listar por ordem de nome do jogador
+3. Agrupar por paÃ­s do jogador
+4. Agrupar por clube de destino
+5. Finalizar

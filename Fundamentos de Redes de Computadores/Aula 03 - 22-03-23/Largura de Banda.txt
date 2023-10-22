@@ -1,0 +1,160 @@
+# COMUTAÇÃO
+=======================================================================================================
+Largura de Banda (bandwidth) => O que é Largura de Banda? (Prova)
+
+Vazao da rede (throughput) => O que é vazao de rede? (Prova)
+
+Formula de transferencia de dados 
+		=>  (T = S / BW)
+		- T = tempo de transferencia
+		- S = tamanho do arquivo
+		- BW = largura de banda
+Uma estimativa mais precisa, o throughput for substituído pela largura de banda na equação.
+		=> (T = S/ P)
+		- T = tempo de transferencia
+		- S = tamanho do arquivo
+		- P = throughput real no instante da transferencia	   
+===========================================================================================================
+# CUIDADOS NECESSÁRIOS
+SE (Largura da banda-BW) FOR (Mbit/s) DEVERA SER (Tamanho do arquivo-S) EM (Mb-megabits)
+
+IF(valor da Largura da banda-BW == Mbit/s)  &  ( valor Tamanho do arquivo-S == Mb-megabits):
+	Pode calcular normal 
+ELIFE( valor Tamanho do arquivo-S == MB-MEGABYTES)
+	Necessário multiplicar por 8 (x8)  o valor de MEGABYTES
+
+==============================================================================================================
+INFO AULA
+
+1M bits = 1000 k bits = 1000 000 bits 10^6
+
+NIC 2,5 Gbits  => Roteador 1G bits  = vazao de 1,5 G bits
+
+DM => T=S/BW => Limite teorico bw
+DT => T=S/   =>
+
+computacional = X 1024
+Comercial = x 1000
+
+
+==========================================================================================
+Exemplo Um
+
+T= S/BW 
+S = 100 MB
+largura de banda = 512 Kbits D,  256 Kbits U
+U => UPLOAD
+D => DOWLOAD
+BW = 256 Kbits/s
+1 BYTE = 8 bits
+Transforma de BYTE EM bits => 100 MB X 8 bits = 800 Mbits 
+Transforma de M em K => 800 Mbits x 1000 = 800.000 kbits
+T= S/BW 
+T = 800.000 Kbits/256 Kbitss =~ 3s
+
+RESOLUCAO PROF == 100MB = > 100 X 1000 Kbits = (100.000 Kbits/256) * 8 ~= 3100 segundos
+
+T= S/BW 
+S = 10 GB
+BW = 5 Mbit/s
+Transforma de BYTE EM bits => 10 GB X 8 bits = 80 Gbits
+Transforma de G em M => 80 G X 1000 = 80.000 Mbits
+T= S/BW 
+T = 80.000 Mbits/5Mbitss =~ 16s
+
+Resolucao prof => 10 GB => 10 x 1000 M bits = (10.000 M bits/5) * 8 => terminação em bit, vezes 8 =~ 16000 segundos
+
+
+=================================================================================================
+
+EXERCICIO UM
+
+T= S/P
+S = 500 MB
+P = 100 Mbits/s
+Transferir de BYTE em bits => 500 MB X 8 bits = 4000 Mbits
+T = 4.000 Mbits/100 Mbitss 
+T = 40s
+
+==================================================================================================
+
+EXERCICIO DOIS
+
+T = S/BW
+S = 3,3 GB
+BW = 100.000 Kbitss
+Transforma de BYTE em bits => 3,3 GB X 8 bits = 26,4 Gbits
+Transforma de G em K = 26,4 G X 1000 X 1000 = 26.400.000 Kbits
+T = 26.400.000 Kbits/ 100.000 Kbitss
+T = 264 s 
+
+
+==================================================================================================
+
+EXERCICIO TRES
+
+T = S/BW
+S = 1 GB
+BW = 10 Mbitss
+Transforma de BYTE em bits => 1GB X 8bits = 8Gbits
+Transforma de G em M => 8Gbits x 1000 = 8000 Mbits
+T = 8000 Mbits / 10 Mbits
+T = 800 s /60 = ~= 13,33 minutos
+
+==================================================================================================
+
+EXERCICIO QUATRO
+
+BW = 5 Mbitss
+S = 500 MB 
+Transforma de BYTE em bits => 500MB x 8 bits = 4000Mbits
+T = 4.000Mbits / 5Mbits 
+T = 800 s ~= 13,33 mini
+
+==================================================================================================
+
+EXERCICIO CINCO
+
+S = 250 MB X 1024 = 256000KB x 8 = 2 10^6 bits = 2048000bits/600 = 3413
+600 Kbitss == P
+1 Gbits => NIC = BW 
+
+
+
+=================================================================================================
+Aula 22/03/2023
+
+B => Armazenamento
+b => Transferencia, transferencia de dados em bits, ou seja, tranferencia de 0 e 1
+
+bit => MENOR UNIDADE
+BYTE => 8 bits
+
+ETHERNET => 10Mbits\s
+FASTETHERNET => 100Mbit\s
+
+levar para hora = se o numero é igula ou maior a 3600,divide por 3600 para transferir em minito, menor que 3600 divide por 60 para trasferir em minuto
+
+
+EXEMPLO PRÁTICO
+
+58.52 Mbits Dowload
+3.44 Mbits Upload
+221 MBYTE Enviar pela rede  * 8 = 1768 Mbits
+T= S/UPLOD
+T = 1768Mbits/ 3.44Mbits = 512,95 / 60 =~ 8,50MINUTOS = => UPLOAD
+T = 1768Mbits/ 58.52Mbits = 30,21 segundos => DOWLOAD
+ 30 X 17 = 510 => MULTIPLICA AS DIFERENÇAS DE TEMPO
+
+
+
+
+
+
+
+
+
+
+
+
+

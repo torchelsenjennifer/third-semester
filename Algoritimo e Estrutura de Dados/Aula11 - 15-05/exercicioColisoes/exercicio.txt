@@ -1,0 +1,54 @@
+# Dados estatisticos sobre acidentes em NY
+# ====================================
+# 1. Acidentes nos últimos 5 anos
+#   - Nº Total de Acidentes: 1987234
+#   - Nº Acidentes anos anteriores: 1200000
+#	- Nº Acidentes em 2021: xxxx
+#	- Nº Acidentes em 2022: xxxx
+#	- Nº Acidentes em 2023: xxxx
+#
+# 2. Acidentes agrupados por Bairro
+#	- Nao informado:xxx
+#	- BROOKLYN: XXXX
+#	- MANHATTAN: XXXX
+#
+# 3.Acidentes envolvendo Bikes, Bus e Sedans
+#	- Nº total ....: 1987223
+#	- Nº com bike
+#	- Nº com bus
+#	- Nº com Sedans: xxxx
+#
+4. Total de feridos e mortos
+             Total de Feridos: xxx
+             Total de Mortos.: xxx
+
+5. Finalizar
+
+---------------------------------------------------------------
+
+AnÃ¡lise de Nomes Populares
+--------------------------
+1. Comparativo entre 2 nomes
+     1Âº Nome: Gabriel
+     2Âº Nome: Pedro
+
+   Gabriel
+   ----------
+   2011 - HISPANIC - 187
+
+
+   Total....: 7420
+
+   Pedro
+   ------------------
+   2011 - ASIAN AND PACIFIC ISLANDER - 120
+
+
+   Total.....: 6249
+
+2. Lista dos 20 nomes + populares
+
+    Lista dos 20 Nomes + populares
+    ---------------------------
+    Ana - 12890
+    ...

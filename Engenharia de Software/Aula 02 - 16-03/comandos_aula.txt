@@ -1,0 +1,1 @@
+esc e depois :Q => sair da tela de configuração

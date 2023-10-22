@@ -1,0 +1,8 @@
+Comandos Banco de Dados Mongo DB
+
+-Ir ate a o caminho para abrir no cmd 2 terminias
+	-C:\data\db
+-1 terminal : mongod
+-2 terminal : mongosh
+
+mongoimport -d aula17 -c siafi --type CSV --file c:\Users\jenni\Downloads\BD2-A17-siafidadosusuarios.csv --headerline
